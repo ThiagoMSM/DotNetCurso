@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NioRqJgNDNBRJv6AvcrCE0e3luBo0KGTaJaNzd6SgvpqkncvmD8foXDW3FevWFMw5LeKYDUitdxvWt7Kq68ByA==",
+  "dgSpecHash": "fZu+ASf3Pbf2G+agK6LsZ5bqVGeikf2GmklQ0mbpzMwCD6UjM0USXjQOB7ahkG7bYjteqscLBkMfnpP5xLfPJQ==",
   "success": true,
   "projectFilePath": "/home/thiago/Desktop/Projetos/CursoDotNet/src/Backend/MyRecipeBook.API/MyRecipeBook.API.csproj",
   "expectedPackageFiles": [
